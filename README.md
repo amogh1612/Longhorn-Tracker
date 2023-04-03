@@ -1,2 +1,5 @@
 # Longhorn-Tracker
-I, Amogh Kumar, and Bahuliya Manyapu created The Longhorn Tracker web app to incentivize student involvement in school events via points for rewards. It was designed for the Georgia FBLA State Leadership Conference, winning recognition as Finalist, Top 10, and State Winners in Coding &amp; Programming. The aim was to create a dynamic school community.
+To launch this web application that utilizes XAMPP server, SQL, PHP, HTML, and CSS, the appropriate tools are necessary (instructions can be found on YouTube). This web application was created for the 2023 Georgia FBLA State Leadership Conference, where it was recognized as a Finalist, Top 10, and State Winner for the Coding and Programming Competition.
+
+Presentation from SLC 2023:
+[Longhorn Tracker Presentation SLC 2023.pdf](https://github.com/amogh1612/Longhorn-Tracker/files/11142384/Longhorn.Tracker.Presentation.SLC.2023.pdf)
